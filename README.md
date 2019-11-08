@@ -1,7 +1,4 @@
 # TP_SO_I4_bondiola_
-git add .
-    git commit -m "Gamma hace merge desde ambas ramas"
-    git push -u origin master
 2 - Alfa clona el repositorio, crea una nueva rama, agrega sus datos y hace el push.
 
     git clone https://github.com/Barela-gabriela/TP_SO_I4_bondiola_
